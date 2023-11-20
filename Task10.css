@@ -1,0 +1,109 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+  background-image: url(./images/social-media-doodle-seamless-pattern-260nw-1931497916.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+    
+   
+}
+.abc,a{
+    display: block;
+
+}
+a{
+    color: blue;
+}
+#cont{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+form{
+    background-color: white;
+    width: 30%;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+h3{
+    text-align: center;
+    color: yellow;
+}
+h1,h5{
+    text-align: center;
+    color:rgb(1, 43, 60) ;
+}
+form label{
+    color: rgb(1, 43, 60);
+    font-size: 18px;
+}
+form .pqr{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+}
+form input{
+    border: 2px double skyblue;
+}
+button{
+    width: 100%;
+    height: 40px;
+    border: 2px solid navy;
+    box-shadow: 0px 5px;
+    border-radius: 5px;
+    background-color: yellow;
+    color: rgb(1, 43, 60);
+    font-size: 20px;
+    border-color:rgb(1, 43, 60) ;
+    position: relative;
+    
+
+}
+
+#rem{
+    display: flex;
+    justify-content: baseline;
+    
+}
+#acc{
+    display: flex;
+    justify-content: center;
+}
+.fa-envelope{
+    position: absolute;
+    top: 45%;
+    left: 3%;
+}
+#email{
+    position: relative;
+}
+.fa-lock{
+    position: absolute;
+    top: 55%;
+    left: 3%; 
+}
+#lock{
+    position: relative;
+}
+.fa-right-to-bracket{
+    position: absolute;
+    top: 30%;
+    left: 60%; 
+}
+#wel{
+    position: relative;
+}
+
+.fa-face-smile{
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    left: 45%;
+    position: absolute;
+    
+}
